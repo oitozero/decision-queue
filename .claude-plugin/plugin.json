@@ -1,0 +1,6 @@
+{
+  "name": "decision-queue",
+  "version": "0.1.0",
+  "description": "A pane beside the chat for long tasks: steps, decisions running on a default, held risky actions and deliverables",
+  "types": "./types/index.d.ts"
+}

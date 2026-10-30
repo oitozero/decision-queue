@@ -1,0 +1,5 @@
+{
+  "name": "decision-queue",
+  "owner": { "name": "oitozero" },
+  "plugins": [{ "name": "decision-queue", "source": "./" }]
+}
